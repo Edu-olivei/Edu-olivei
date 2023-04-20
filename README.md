@@ -4,7 +4,7 @@
 
 [![EDUARDO GitHub stats](https://github-readme-stats.vercel.app/api?username=EDUARDOOLIVEIRA)](https://github.com/EDUARDOOLIVEIRA/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Tecnologias
 
