@@ -2,7 +2,11 @@
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-oliveira-087667129/)
 
-[![EDUARDO GitHub stats](https://github-readme-stats.vercel.app/api?username=Edu-olivei)](https://github.com/EDUARDOOLIVEIRA/github-readme-stats)
+[![EDUARDO GitHub stats](https://github-readme-stats.vercel.app/api?username=EDUARDOOLIVEIRA)](https://github.com/EDUARDOOLIVEIRA/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo)](https://github.com/anuraghazra/github-readme-stats)
+
+### Tecnologias
 
 <div>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -19,9 +23,7 @@
   
  <img align="center" alt="html5" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/> 
   
-  <img align="center" alt="html5" src=""/>
   
-  <img align="center" alt="html5" src=""/>
   
  
 </div>
